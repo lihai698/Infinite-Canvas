@@ -1,0 +1,15 @@
+# Private configuration and user content (tracked upstream files remain tracked).
+.env
+.env.*
+!.env.example
+/data/
+/assets/
+/output/
+/history.json
+__pycache__/
+*.py[cod]
+*.log
+/python/Lib/
+/python/Scripts/
+.venv/
+venv/

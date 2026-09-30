@@ -1,4 +1,15 @@
 # Infinite-Canvas
+
+## 个人维护版本
+
+本仓库基于 [hero8152/Infinite-Canvas](https://github.com/hero8152/Infinite-Canvas) 开展个人使用场景的维护，原作者为 hero8152（wuli大雄）。保留原项目 [LICENSE](LICENSE)，二次开发不改变其授权限制。
+
+本地改进包括画布日志清理、紧凑侧栏与图标名称提示，以及相关测试。后续统一按照 [项目长期维护与二次开发路线](项目长期维护与二次开发路线.md) 逐步推进。
+
+上传代码不包含本机新增的密钥、个人配置、画布、对话或素材数据；这些内容应单独备份。当前源码继承上游历史，忽略规则不会清除已被上游跟踪的文件，请勿将真实密钥写入后提交。
+
+以下保留原作者项目说明。
+
 Supports comfyui/API calls/modelscope calls
 
 2026/08/28:
